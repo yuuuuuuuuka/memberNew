@@ -1,0 +1,3 @@
+module FizzBuzz {
+	exports sumpleFizzBuzz;
+}
